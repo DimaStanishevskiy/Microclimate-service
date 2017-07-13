@@ -1,0 +1,23 @@
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Release\ControlPanel.exe.config
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Release\ControlPanel.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Release\ControlPanel.pdb
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.Form1.resources
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.Properties.Resources.resources
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Release\ControlPanel.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\bin\Release\ControlPanel.exe.config
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\bin\Release\ControlPanel.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\bin\Release\ControlPanel.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\bin\Release\System.ServiceProcess.ServiceController.dll
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.Form1.resources
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.Properties.Resources.resources
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Release\ControlPanel.pdb
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\ControlPanel\bin\Release\ControlPanel.exe.config
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\ControlPanel\obj\Release\ControlPanel.exe
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\ControlPanel\obj\Release\ControlPanel.pdb

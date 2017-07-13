@@ -1,0 +1,23 @@
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Debug\ControlPanel.exe.config
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.Form1.resources
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.pdb
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\bin\Debug\ControlPanel.exe.config
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\bin\Debug\ControlPanel.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\bin\Debug\ControlPanel.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.Form1.resources
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.Properties.Resources.resources
+C:\Users\Dima\Desktop\ПроектМикроклимат\Service\ControlPanel\obj\Debug\ControlPanel.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\bin\Debug\ControlPanel.exe.config
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Debug\ControlPanel.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\ControlPanel\obj\Debug\ControlPanel.pdb

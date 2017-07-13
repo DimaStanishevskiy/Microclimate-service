@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Properties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!--Время ожидания порта в секундах-->
+  <TimeOut>1</TimeOut>
+  <!--Максимальное количество неудачных попыток чтения порта-->
+  <NumberOfRetries>5</NumberOfRetries>
+  <!--Название базы данных-->
+  <NameToDataBase>Microclimate</NameToDataBase>
+  <!--Поставщик базы данных-->
+  <SourseToDataBase>.\SQLEXPRESS</SourseToDataBase>
+  <!--Интервал между проверками новых подключений-->
+  <IntervalInspections>60</IntervalInspections>
+  <!--Отображаемые уровни лога (Debug, Info, Warn, Error, Fatal)-->
+  <DisplayLevels>
+    <string>Debug</string>
+    <string>Info</string>
+    <string>Warn</string>
+    <string>Error</string>
+    <string>Fatal</string>
+  </DisplayLevels>
+</Properties>

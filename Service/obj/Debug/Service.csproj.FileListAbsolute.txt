@@ -1,0 +1,6 @@
+C:\Users\Dima\Desktop\ВНТУ\візуальне програмування\Service\Service\bin\Debug\Service.exe.config
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Debug\Service.exe.config
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Debug\Service.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Debug\Service.pdb
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\obj\Debug\Service.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\obj\Debug\Service.pdb

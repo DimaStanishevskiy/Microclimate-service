@@ -1,0 +1,357 @@
+﻿Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Предупреждение. Источник ControllMK не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется откат для сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ControllMK.
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Предупреждение. Источник ControllMK не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ControllMK из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется откат для сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется откат для сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ControllMK.
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Предупреждение. Источник ControllMK не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.
+Попытка останова службы ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется откат для сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ControllMK.
+Выполняется установка сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Устанавливается служба ControllMK...
+Служба ControllMK успешно установлена.
+Создается исходный EventLog ControllMK в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление сборки 'C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+   logfile = C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.InstallLog
+Выполняется удаление источника EventLog ControllMK.
+Выполняется удаление службы ControllMK из системы...
+Служба ControllMK успешно удалена из системы.

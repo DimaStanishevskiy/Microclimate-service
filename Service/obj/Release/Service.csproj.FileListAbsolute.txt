@@ -1,0 +1,18 @@
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Release\Service.exe.config
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Release\Service.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\bin\Release\Service.pdb
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\obj\Release\Service.exe
+C:\Users\Dima\Desktop\Проект Микроклимат\Service\Service\obj\Release\Service.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe.config
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\obj\Release\Service.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\obj\Release\Service.pdb
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.exe
+C:\Users\Dima\Desktop\ПроектМикроклимат\Project\Service\Service\bin\Release\Service.pdb
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\bin\Release\Service.exe.config
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\obj\Release\Service.exe
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\obj\Release\Service.pdb
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\bin\Release\Service.exe
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\bin\Release\Service.pdb
+C:\Users\Dima\Desktop\prj\meteorologist\BackEnd\WindowsService\Service\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
